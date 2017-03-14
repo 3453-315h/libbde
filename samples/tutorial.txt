@@ -63,3 +63,6 @@ NOTES
 
 The sample images were generated on Windows 8.1 running under VirtualBox (in
 December, 2014).
+
+bitlocker-1.qcow2, bitlocker-2.qcow2, and bitlocker-3.qcow2 were generated on
+Windows 10 (1607) running under QEMU in March, 2017.
